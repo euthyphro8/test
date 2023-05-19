@@ -1,0 +1,26 @@
+_id: req_71525bd6931c4329b72882dfc1776968
+type: Request
+parentId: fld_f8dfbca2078e4fe2b347296885292b09
+modified: 1684479483708
+created: 1684470785219
+url: ""
+name: Test Request
+description: Test description
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: iam
+  disabled: false
+  accessKeyId: ""
+  secretAccessKey: ""
+  sessionToken: ""
+metaSortKey: -1684470785220
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

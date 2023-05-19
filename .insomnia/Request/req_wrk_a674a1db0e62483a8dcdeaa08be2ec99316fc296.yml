@@ -1,0 +1,21 @@
+_id: req_wrk_a674a1db0e62483a8dcdeaa08be2ec99316fc296
+type: Request
+parentId: wrk_a674a1db0e62483a8dcdeaa08be2ec99
+modified: 1684475768980
+created: 1684475768980
+url: "{{ base_url }}/"
+name: List API versions
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1684475768980
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
